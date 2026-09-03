@@ -1,129 +1,124 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi%20👋,%20I'm%20Hamid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1525,100:0B3D3B&height=220&section=header&text=Hamid%20%7C%20Python%20Developer&fontSize=42&fontColor=00FFCC&animation=fadeIn&fontAlignY=36&desc=Code+%E2%80%A2+Learn+%E2%80%A2+Secure&descAlignY=62&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2DA198&center=true&vCenter=true&width=500&lines=Python+Developer+%7C+Security+Learner;Linux+%7C+Git+%7C+Networking%2B;HTML+%2F+CSS+%7C+C+%2F+C%2B%2B;Hacking+%26+Cyber+%7C+IoT+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=print(%22Hello%2C+World!%22);while(alive)+%7B+learn()%3B+code()%3B+%7D;Python+%7C+Linux+%7C+Network%2B;Cybersecurity+%26+IoT+Explorer;HTML+%2F+CSS+%7C+Git+%7C+C%2FC%2B%2B)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daashamid&color=2DA198&style=flat&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/Daashamid?label=Followers&style=flat&color=2DA198" />
+  <img src="https://komarev.com/ghpvc/?username=Daashamid&color=00FFCC&style=flat&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Daashamid?label=FOLLOWERS&style=flat&color=0e1525&labelColor=0e1525&color=00FFCC" />
+  <img src="https://img.shields.io/badge/FOCUS-Python+%26+Security-00FFCC?style=flat&logo=python&logoColor=black&labelColor=0e1525" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> About Me
+
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-8f32-6d21-902750a1b8fb.gif" />
 
 ```python
 class Hamid:
-    def __init__(self):
-        self.username = "Daashamid"
-        self.role = "Python Developer & IT Learner"
-        self.interests = ["Cybersecurity", "Hacking", "Networking", "IoT", "Linux"]
-        self.current_focus = "Python + Network+ + Linux for Security path"
-        self.fun_fact = "I see coding as a form of art 🎨"
+    username = "Daashamid"
+    role = "Python Developer"
+    stack = ["Python", "HTML", "CSS", "C", "C++"]
+    tools = ["Git", "GitHub", "Linux"]
+    networking = ["Network+", "TCP/IP", "DNS", "DHCP"]
+    passion = ["Cybersecurity", "Ethical Hacking", "IoT"]
 
-    def get_motto(self):
-        return "Learn, Build, Secure, Repeat 🔁"
+    def daily(self):
+        return "Learn → Code → Break → Fix → Secure 🔁"
 ```
 
-- 🔭 Currently learning **Python, Linux, Network+ and Cybersecurity basics**
-- 🌱 Interested in **Ethical Hacking, Cyber Security & IoT**
-- 💻 I work with **Python, HTML, CSS, C/C++ (basic)**
-- ⚙️ Tools I use: **Git, GitHub, Linux**
-- ⚡ Fun fact: **I love breaking things to learn how they work**
+<br/>
+
+- 🔭 Now: **Python + Linux + Network+** for Security path
+- 🛡️ Into: **Hacking, Cyber, IoT & OIT**
+- 💻 Love: **Clean code, Terminal, Automation with Python**
+- 🌱 Learning: **TryHackMe / Bash / C++ deeper**
+- ⚡ Motto: **Code is art, Security is mindset**
+
+<br clear="both"/>
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26" /> Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,c,cpp,git,github,linux,vscode&theme=dark" />
-  </a>
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,c,cpp&theme=dark" />
+  <br/><br/>
+  <b>Tools, OS & Environment</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0e1525?style=for-the-badge&logo=python&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/HTML5-0e1525?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0e1525?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/C-C_A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=0e1525" />
+  <img src="https://img.shields.io/badge/C++-0e1525?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Network+-007ACC?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=flat&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-00979D?style=flat&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethical_Hacking-000000?style=flat&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
 ---
 
-### 📚 Currently Learning
+### 📚 Roadmap
 
-- [x] Python Core + File Handling + OOP
-- [x] HTML / CSS
-- [ ] Network+ (OSI, TCP/IP, Subnetting, DNS, DHCP)
-- [ ] Linux (Bash, Permissions, Services, Networking)
-- [ ] Git & GitHub Advanced
-- [ ] Cybersecurity Basics → TryHackMe / OverTheWire
-- [ ] C / C++ Deeper for system understanding
+| Now | Next | Later |
+|---|---|---|
+| `Python OOP + Files` | `Bash + Linux Services` | `Ethical Hacking` |
+| `HTML / CSS` | `Subnetting + Wireshark` | `IoT + Arduino` |
+| `Git Advanced` | `TryHackMe Jr Pentester` | `C++ Projects` |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats & Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Daashamid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daashamid&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Daashamid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daashamid&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Daashamid&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="72%" src="https://streak-stats.demolab.com/?user=Daashamid&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Daashamid&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Daashamid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Daashamid&theme=tokyo-night&hide_border=true&area=true&custom_title=Hamid's%20Contribution%20Graph" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
-<!-- برای فعال شدن این بخش: بعد از آپلود، از تب Actions ریپو، workflow ی Snake را فعال کن. فایل .github/workflows/snake.yml لازم دارد -->
+### 🐍 Watch my contributions get eaten
 
 <p align="center">
-  <img src="https://github.com/Daashamid/Daashamid/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daashamid/Daashamid/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Daashamid/Daashamid/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://github.com/Daashamid/Daashamid/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
+<!-- برای فعال شدن مار: فایل .github/workflows/snake.yml لازمه. اگه خواستی بگو تا بدم -->
 
 ---
 
-### 📫 Connect with me
+### 📫 Where to find me
 
 <p align="center">
-  <a href="https://github.com/Daashamid"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- یوزرنیم تلگرام و ایمیلت رو بذار اینجا -->
-  <!--
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/YOUR_ID"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_ID/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Daashamid"><img src="https://img.shields.io/badge/GitHub-Daashamid-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- بعدا اینها رو باز کن و YOUR_ID رو عوض کن
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/YOUR_ID"><img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   -->
 </p>
 
----
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e1525,100:0B3D3B&height=130&section=footer" />

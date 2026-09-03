@@ -3,10 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=%24+whoami+%3E+hamid;$+cat+stack.txt+%3E+python+%7C+linux+%7C+network%2B;$+./learn_security.sh+%3E+running...;$+echo+%22Code.+Break.+Secure.+Repeat%22)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daashamid&color=00ff88&style=flat&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/Daashamid?label=FOLLOWERS&style=flat&color=000000&labelColor=000000&color=00ff88" />
+  <img src="https://komarev.com/ghpvc/?username=CyMidCode&color=00ff88&style=flat&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/CyMidCode?label=FOLLOWERS&style=flat&color=000000&labelColor=000000&color=00ff88" />
   <img src="https://img.shields.io/badge/Iran-000000?style=flat&logo=googlemaps&logoColor=00ff88&labelColor=000000&color=000000" />
   <a href="https://x.com/Daashamid82"><img src="https://img.shields.io/badge/@Daashamid82-000000?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCWaT4Q7CF0IUlU1_WOoxfPA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
 </p>
 
 <h3 align="center">🐍 Python Developer &nbsp;•&nbsp; 🐧 Linux Lover &nbsp;•&nbsp; 🛡️ Future Hacker</h3>
@@ -21,7 +22,7 @@
 
 ```python
 class Hamid:
-    username = "Daashamid"
+    username = "CyMidCode"
     location = "Iran"
     role = "Python Developer"
     x = "@Daashamid82"
@@ -79,35 +80,31 @@ class Hamid:
 
 ---
 
-### 🔥 Featured Projects — real code, not just stats
+### 🔥 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Daashamid/auto-wifi-biruni">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Daashamid&repo=auto-wifi-biruni&theme=tokyonight&hide_border=true&border_radius=10&show_owner=true" />
-  </a>
-  <a href="https://github.com/Daashamid/backlight-keyboard">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Daashamid&repo=backlight-keyboard&theme=tokyonight&hide_border=true&border_radius=10&show_owner=true" />
+  <a href="https://github.com/CyMidCode/CyMidCode">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CyMidCode&repo=CyMidCode&theme=tokyonight&hide_border=true&border_radius=10&show_owner=true" />
   </a>
 </p>
 
-> `auto-wifi-biruni` → Python automation for WiFi login • `backlight-keyboard` → Linux keyboard backlight controller.
-> Practical system scripting = exactly what a security path needs.
+> 🧪 This is my test lab. Main projects live on [@Daashamid](https://github.com/Daashamid): `auto-wifi-biruni` • `backlight-keyboard`
 
 ---
 
 ### 📊 GitHub DNA
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Daashamid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daashamid&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CyMidCode&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=CyMidCode&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=Daashamid&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=CyMidCode&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Daashamid&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CyMidCode&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 
 ---
@@ -134,9 +131,9 @@ Hacking ███░░░░░░░░ 25%  # TryHackMe next →
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daashamid/Daashamid/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daashamid/Daashamid/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Daashamid/Daashamid/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyMidCode/CyMidCode/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyMidCode/CyMidCode/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/CyMidCode/CyMidCode/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
 
@@ -145,8 +142,9 @@ Hacking ███░░░░░░░░ 25%  # TryHackMe next →
 ### 📫 Connect
 
 <p align="center">
-  <a href="https://github.com/Daashamid"><img src="https://img.shields.io/badge/GitHub-Daashamid-000000?style=for-the-badge&logo=github&logoColor=00ff88" /></a>
+  <a href="https://github.com/CyMidCode"><img src="https://img.shields.io/badge/GitHub-CyMidCode-000000?style=for-the-badge&logo=github&logoColor=00ff88" /></a>
   <a href="https://x.com/Daashamid82"><img src="https://img.shields.io/badge/X-@Daashamid82-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UCWaT4Q7CF0IUlU1_WOoxfPA"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>“First, solve the problem. Then, write the code.”</i></p>
